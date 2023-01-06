@@ -189,7 +189,7 @@ button:hover {
   }
 }
 
-@media (max-width: 440px) {
+@media (max-width: 300px) {
   .default {
     width: 200px;
   }
